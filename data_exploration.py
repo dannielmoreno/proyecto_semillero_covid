@@ -54,5 +54,5 @@ for i, rows in sample_df.iterrows():
             ax.add_patch(rect)
             
     plt.show()
-    
+    print("sisas perro")
     
